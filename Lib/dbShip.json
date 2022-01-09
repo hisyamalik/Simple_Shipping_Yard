@@ -1,0 +1,50 @@
+{
+    "Kapal Pesiar": [
+        {
+            "kode": "KP2022",
+            "lokasi": "Gudang A",
+            "nama": "Jaya Abadi",
+            "produksi": "01/02/22",
+            "status": "booked"
+        },
+        {
+            "nama": "Jaya Abadi",
+            "kode": "KP2022",
+            "produksi": "01/02/22",
+            "lokasi": "Gudang A",
+            "status": "booked"
+        }
+    ],
+    "Perahu Layar": [
+        {
+            "kode": "KL2022",
+            "lokasi": "Gudang C",
+            "nama": "Putra Bali",
+            "produksi": "03/21/20",
+            "status": "sold"
+        },
+        {
+            "nama": "Putra Bali",
+            "kode": "KL2022",
+            "produksi": "03/21/20",
+            "lokasi": "Gudang C",
+            "status": "sold"
+        }
+    ],
+    "Perahu Motor": [
+        {
+            "kode": "PM2022",
+            "lokasi": "Gudang B",
+            "nama": "Perahu Arjuna",
+            "produksi": "05/23/21",
+            "status": "available"
+        },
+        {
+            "nama": "Perahu Arjuna",
+            "kode": "PM2022",
+            "produksi": "05/23/21",
+            "lokasi": "Gudang B",
+            "status": "available"
+        }
+    ]
+}
